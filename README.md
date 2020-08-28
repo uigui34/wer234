@@ -8,7 +8,9 @@ TIPS:
 * Heroku部署v2ray,添加了caddy和tor的支持，部署后点击View，成功应显示caddy欢迎页面 
 
 * 客户端使用vless websockets tls方式链接服务端  
-    默认UUID: `3dcda15b-755a-48fe-b012-a4cac2aa9197`  websocket默认路径: `/`  
+   
+
+  "port": 3001, 默认UUID: `3dcda15b-755a-48fe-b012-a4cac2aa9197`  websocket默认路径: `/`  
   
 * 可在部署时修改变量UUID和WSPATH，服务端和客户端需相同  
   
