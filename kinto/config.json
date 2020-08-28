@@ -2,7 +2,7 @@
     "inbounds": [
         {
             "port": 3001,
-            "protocol": "vless",
+            "protocol": "vmess",
             "settings": {
                 "clients": [
                     {
