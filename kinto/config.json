@@ -1,0 +1,27 @@
+{
+  "inbounds": [
+    {
+      "port": 443,
+      "protocol": "vless",
+      "settings": {
+        "clients": [
+          {
+            "id": "3dcda15b-755a-48fe-b012-a4cac2aa9197",  #更改id
+            "level": 0
+          }
+        ],
+        "decryption": "none",
+        "fallback":{
+        "addr": "127.0.0.1",
+        "port": 80
+        }
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "tls",
+        "tcpSettings": {
+        "type": "none"
+        },
+     }
+   }
+  ],
