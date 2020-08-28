@@ -5,14 +5,14 @@
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+            "value": "3dcda15b-755a-48fe-b012-a4cac2aa9197"
         },
         "WSPATH": {
             "description": "websockets path",
             "value": "/"        
         }
     },
-    "website": "https://github.com/mixool/v2ray",
-    "repository": "https://github.com/mixool/v2ray",
+    "website": "https://github.com/mmpuq/v2ray-heroku-vless",
+    "repository": "https://github.com/mmpuq/v2ray-heroku-vless",
     "stack": "container"
 }
