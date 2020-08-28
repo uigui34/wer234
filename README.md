@@ -1,6 +1,6 @@
 @azaslaq  搞了个caddy v2ray tor ，默认用vless: https://github.com/mixool/v2ray
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy/https://github.com/mmpuq/v2ray-heroku-vless)  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mmpuq/v2ray-heroku-vless)  
   
 > 提醒： 滥用可能导致账户就被BAN！！！  
 
